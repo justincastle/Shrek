@@ -1,0 +1,25 @@
+body {
+    font-family: comic sans-serif, sans-serif;
+    background-color: cadetblue
+    
+}
+
+#custom-background {
+    background-color: #f6f6f6;
+    color: rgb(227, 33, 33);
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: #4c68af;
+}
+
+div {
+    margin: 20px 0;
+}
+
+img {
+    border: 5px solid #4caf50;
+    border-radius: 8px;
+}
